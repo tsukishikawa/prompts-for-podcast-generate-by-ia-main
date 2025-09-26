@@ -1,0 +1,10 @@
+## 🧠 Prompts
+
+
+ChatGPT：
+
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|  título  | Você é um roteirista de podcast e você é um roteirista focado em backend e eu gostaria de uma ajuda sua para criar 5 sugestões de nomes criativos de nome backend dev e que tenha um trocadilho nerd para o nome O podcast vai falar sobre backend e dar dicas e falar sobre novidades do mundo tech relacionado ao backend [REGRAS] - O nome deve ser enxuto, um nome e subtítulo - O nome tenha um trocadilho nerd com referências a Star Wars - O nome deve conter algum trocadilho com backend                                             |
+| conteúdo | Você é um roteirista de podcast, e vamos criar um roteiro de um podcast de tecnologia, focado em backend cujo o nome é "Django Fett - Caçando Bugs e APIs pela Galáxia" e tem foco em backend, com o público alvo de iniciantes em backend o formato do roteiro deve ser [INTRODUÇÃO] [CURIOSIDADE 1] [CURIOSIDADE 2] [FINALIZAÇÃO] {REGRAS} - no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'mano deyvin' - no bloco [CURIOSIDADE 1] substitua por uma curiosidade de API - no bloco [CURIOSIDADE 2] sobre uma ferramenta para back ends - no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou a Mari e esse foi nosso episódio da semana' - use termos de fácil explicação - O podcast vai ser apresentado somente por uma pessoa, chamada Mari - O podcast deve ser curto {REGRAS NEGATIVAS} - Não use muitos termos técnicos - Não ultrapasse 5 minutos de duração|
+
